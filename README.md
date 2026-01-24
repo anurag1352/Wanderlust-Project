@@ -4,7 +4,8 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 
 ![Preview Image](https://github.com/krishnaacharyaa/wanderlust/assets/116620586/17ba9da6-225f-481d-87c0-5d5a010a9538)
 #
-
+# Clone Repo
+git clone https://github.com/anurag1352/Wanderlust-Project.git
 # Wanderlust Mega Project End to End Implementation
 
 ### In this demo, we will see how to deploy an end to end three tier MERN stack application on EKS cluster.
